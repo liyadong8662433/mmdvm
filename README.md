@@ -6,13 +6,13 @@ rpi-rw
 
 cd /tmp
 
-sudo git clone https://gitee.com/BH3HQA/mmdvm.git
-
+使用gitee请用sudo git clone https://gitee.com/BH3HQA/mmdvm.git
+使用github请用 sudo  git clone
 cd /tmp/mmdvm
 
 sudo cp stripped.csv /usr/local/etc
 
-此文件包含全部277757条呼号，中国组460更新到ID：4612344
+此文件包含全部279620条呼号，中国组460更新到ID：4612863
 
 这里BH3HQA DE 73
 
